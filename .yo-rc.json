@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "hello-on-prem",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "2cd12d08-10e8-4255-ba01-405724d78c91"
+  }
+}

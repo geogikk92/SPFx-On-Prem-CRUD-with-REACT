@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-on-prem-client-side-solution",
+    "id": "2cd12d08-10e8-4255-ba01-405724d78c91",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-on-prem.sppkg"
+  }
+}
